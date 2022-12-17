@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @noys2602
+- 👋 Hi, I’m @noys2602- Noy Swisa Segal
 - 👀 I’m interested in coding tennis and economics!
-- 🌱 I’m currently learning computer science in tel aviv
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning computer science and economics in tel aviv university!
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me - mail - noyswisa26@gmail.com
 
 <!---
