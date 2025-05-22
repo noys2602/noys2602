@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @noys2602- Noy Swisa Segal
-- 👀 I’m interested in data science, tennis and economics!
-- 🌱 I’m currently learning computer science and economics in tel aviv university!
-- 💞️ I’m looking to collaborate 
+- 👀 I’m interested in AI, Product Management Tennis and Inversments!
+- 🌱 BA economics & computer science from Tel Aviv university.
 - 📫 How to reach me - mail - noyswisa26@gmail.com
 
 <!---
